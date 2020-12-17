@@ -1,1 +1,6 @@
+title: Explosive experimenting
+description: "Stories about gamedev in modern C++"
 theme: jekyll-theme-merlot
+
+# Blog
+post_navigation: true
